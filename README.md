@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Flutter Html CSS JavaScript C++ C Python Machine Learning Dart Kotlin mySql**
+- 💬 Ask me about **Flutter Html CSS JavaScript C++ C Python Machine Learning Dart mySql React Node Express Mongodb**
 
 - 📫 How to reach me **uj6398104@gmail.com**
 
